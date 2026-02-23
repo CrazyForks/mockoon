@@ -46,7 +46,7 @@ Mockoon is proudly **independent** and **open-source**, maintained without exter
 
 <div align="center" style="margin-top:20px;margin-bottom:20px;">
  
-  <a href="https://www.testmu.ai/">
+  <a href="https://www.testmuai.com/?utm_medium=sponsor&utm_source=mockoon">
       <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://mockoon.com/images/sponsors/light/testmuai.png">
       <source media="(prefers-color-scheme: light)" srcset="https://mockoon.com/images/sponsors/testmuai.png">
