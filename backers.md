@@ -10,29 +10,39 @@ You can join them by visiting our Sponsor page on [GitHub Sponsors](https://gith
 
 ### Platinum
 
-<div align="center" style="margin-top:20px;margin-bottom:20px;">
-  <a href="https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/">
-      <picture>
+<table width="100%" class="no-style">
+  <tr>
+    <td align="center">
+      <a href="https://github.blog/news-insights/company-news/github-accelerator-our-first-cohort-and-whats-next/">
+        <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://mockoon.com/images/sponsors/light/github.png">
       <source media="(prefers-color-scheme: light)" srcset="https://mockoon.com/images/sponsors/github.png">
       <img src="https://mockoon.com/images/sponsors/light/github.png" alt="GitHub logo" />
       </picture>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://localazy.com/register?ref=a9CiDC61gOac-azO">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://localazy.com/register?ref=a9CiDC61gOac-azO">
       <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://mockoon.com/images/sponsors/light/localazy.png">
       <source media="(prefers-color-scheme: light)" srcset="https://mockoon.com/images/sponsors/localazy.png">
       <img src="https://mockoon.com/images/sponsors/light/localazy.png" alt="Localazy logo" />
       </picture>
-  </a>
-  <a href="https://serpapi.com/?utm_source=mockoon">
-      <picture>
+      </a>
+    </td>
+  </tr>
+  <tr>    
+    <td align="center" colspan="2">
+      <a href="https://serpapi.com/?utm_source=mockoon">
+        <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://mockoon.com/images/sponsors/light/serpapi.png">
       <source media="(prefers-color-scheme: light)" srcset="https://mockoon.com/images/sponsors/serpapi.png">
       <img src="https://mockoon.com/images/sponsors/light/serpapi.png" alt="SerpApi logo" />
       </picture>
-  </a>
-</div>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Gold
 
