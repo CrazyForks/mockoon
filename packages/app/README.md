@@ -56,6 +56,13 @@ Mockoon is proudly **independent** and **open-source**, maintained without exter
       <img src="https://mockoon.com/images/sponsors/light/localazy.png" alt="Localazy logo" />
       </picture>
   </a>
+  <a href="https://serpapi.com/?utm_source=mockoon">
+      <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://mockoon.com/images/sponsors/light/serpapi.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://mockoon.com/images/sponsors/serpapi.png">
+      <img src="https://mockoon.com/images/sponsors/light/serpapi.png" alt="SerpApi logo" />
+      </picture>
+  </a>
 </div>
 
 ### Gold

@@ -25,6 +25,13 @@ You can join them by visiting our Sponsor page on [GitHub Sponsors](https://gith
       <img src="https://mockoon.com/images/sponsors/light/localazy.png" alt="Localazy logo" />
       </picture>
   </a>
+  <a href="https://serpapi.com/?utm_source=mockoon">
+      <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://mockoon.com/images/sponsors/light/serpapi.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://mockoon.com/images/sponsors/serpapi.png">
+      <img src="https://mockoon.com/images/sponsors/light/serpapi.png" alt="SerpApi logo" />
+      </picture>
+  </a>
 </div>
 
 ### Gold
@@ -110,6 +117,7 @@ You can join them by visiting our Sponsor page on [GitHub Sponsors](https://gith
 - [ScottMariano](https://github.com/ScottMariano)
 - Sebastián Díaz
 - Serj
+- [SerpApi](https://serpapi.com/?utm_source=mockoon)
 - [Shinji Nakamatsu](https://github.com/snaka)
 - Silicon Jungles
 - Steve Seidenthal
